@@ -1,1 +1,1 @@
-# Henry-Harvin-project
+# Loan Prediction using Logistic Regression
